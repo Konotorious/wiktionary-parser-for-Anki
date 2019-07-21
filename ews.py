@@ -3,21 +3,13 @@
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
-"""
-filename = "anki_import.txt"
-f = open(filename, "w")
-
-f.write("    "+"\n")
-f.close()
-"""
-
 # wiktionary base url and urls of category pages to parse the contents of
 base_url = "https://en.wiktionary.org"
 categories = {
     "Spanish":"/wiki/Category:Esperanto_terms_derived_from_Spanish",
     "French":"/wiki/Category:Esperanto_terms_derived_from_French"}
 baseFileName = "AnkiEsperantoWordsFrom"
-
+posToParse = ["Verb", "Noun", "Adjective", "Adverb", "Interjection", "Preposition", "Proper Noun"]
 
 def getTermsLists(url, base_url=base_url, recursive = 0):
     """
@@ -38,6 +30,11 @@ def getTermsLists(url, base_url=base_url, recursive = 0):
             pointer = pointer.next_sibling
     lis.append(pointer)
 
+    # The next code relies on some regularity on the wiktionary
+    # category pages. It differentiates between categories with a
+    # single page (counter=2) and those with several pages. The first
+    # and last pages have counter = 3 while the interim pages have
+    # couynter = 4
     if counter == 2:
         return lis
     elif counter == 4:
@@ -56,6 +53,10 @@ def getTermsLists(url, base_url=base_url, recursive = 0):
 
 
 def getNextPage(pageSoup):
+    """
+    Fetches the url for the next page of a multi-page 
+    wiktionary category "page".
+    """
     for a in pageSoup.findAll("a"):
         if a.text == "next page":
             urlContainer = a
@@ -72,9 +73,7 @@ def reachCategoryPagesListHeader(url, base_url=base_url):
             termsHeader = title
     return termsHeader
 
-
 def getPageSoup(url, base_url=base_url):
-
     # openning connection, grabbing the page
     uClient= uReq(base_url+url)
     page_html = uClient.read()
@@ -85,9 +84,10 @@ def getPageSoup(url, base_url=base_url):
 
     return page_soup
 
-
-
 def wikiPageScraper(url, base_url=base_url):
+    """
+    Extracts the needed information from a term page.
+    """
     page_soup = getPageSoup(url)
     try:
         eo_title = page_soup.find(id="Esperanto").parent
@@ -107,7 +107,7 @@ def wikiPageScraper(url, base_url=base_url):
                 etymology = sibling.next_sibling.next_sibling.text
         except:
             continue
-    for pos in ["Verb", "Noun", "Adjective", "Adverb", "Interjection", "Preposition", "Proper Noun"]:
+    for pos in posToParse:
         for sibling in eo_title.next_siblings:
             if sibling.name == 'h2':
                 break
@@ -132,18 +132,9 @@ def wikiPageScraper(url, base_url=base_url):
             except:
                 continue
     return (word, word_pos, meaning, etymology), derivedTermUrls
-"""
-    try: 
-        return (word, word_pos, meaning, etymology), derivedTermUrls
-    except:
-        try:
-            return (None, None, None, None), derivedTermUrls
-        except:
-            print(url)
-"""
 
 def main():
-    urlToFile.scraped_words= set()
+    urlToFile.scraped_words= set() # container for the already parsed terms
     for cat in categories:
         filename = baseFileName+cat+".txt"
         f = open(filename, 'w', encoding='utf-8')
