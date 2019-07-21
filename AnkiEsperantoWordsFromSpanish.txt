@@ -1,0 +1,291 @@
+bela 	Adjective 	beautiful, pretty 	Common Romance, from Latin bellus. 	 
+belega 	Adjective 	gorgeous 	From bela +‎ -eg-. 	 
+dekstra 	Adjective 	right (opposite of left). 	From Italian destro, Latin dexter. 	 
+dekstre 	Adverb 	on the right 	From Latin dexter. 	 
+dekstren 	Adverb 	to the right 	dekstre (“on the right”) +‎ -n (“lative”) 	 
+dekstrulo 	Noun 	a right-handed person; right-hander 	dekstra (“right”) +‎ -ulo (“person”) 	 
+dekstruma 	Adjective 	clockwise 	dekstra (“right”) +‎ -um- 	 
+dekstrume 	Adverb 	clockwise 	dekstruma + -e 	 
+maldekstrulo 	Noun 	a left-handed person, left-hander 	mal- (“opposite of”) +‎ dekstrulo (“right-hander”) [from dekstra (“right”) +‎ -ulo (“person”)] 	 
+maldekstruma 	Adjective 	anticlockwise, counterclockwise 	maldekstra (“left”) [from mal- (“opposite of”) +‎ dekstra (“right”)] +‎ -um- 	 
+vera 	Adjective 	true 	  	 
+abstrakta 	Adjective 	abstract 	Borrowed from German abstrakt, English abstract, Spanish abstracto, from Latin abstractus. 	 
+abstraktaĵo 	Noun 	abstract idea, abstraction 	From abstrakta +‎ -aĵo. 	 
+abstrakte 	Adverb 	abstractly 	abstrakta (“abstract”) +‎ -e 	 
+abstrakteco 	Noun 	abstractness 	From abstrakta +‎ -eco. 	 
+abstraktismo 	Noun 	abstract art 	abstrakta +‎ ismo. 	 
+abunda 	Adjective 	abundant, plentiful 	Compare French abondant, Italian abbondante, English abundant, and Spanish abundante, all ultimately from Latin abundō (“abound”). 	 
+aerostato 	Noun 	aerostat 	From Italian aerostato, Spanish aerostato, English aerostat, French aérostat, Russian аэроста́т (aerostát). 	 
+aerostata 	Adjective 	aerostatic 	  	 
+agvarao 	Noun 	maned wolf 	From Spanish aguará. 	 
+akademio 	Noun 	academy 	From English academy, French académie, German Akademie, Italian accademia, Spanish academia, Russian академия (akademija), from Latin acadēmīa, from Ancient Greek Ἀκαδημία (Akadēmía). 	 
+akademia 	Adjective 	academic 	From akademio (“academy”) +‎ -a (adjectival ending). 	 
+akademiano 	Noun 	academician 	akademio (“academy”) +‎ -ano (“member”) 	 
+aktoro 	Noun 	actor 	From English actor, French acteur, Italian attore, Spanish actor, Russian актёр (aktjór), from Latin āctor. 	 
+amuleto 	Noun 	amulet (protective charm or ornament) 	From English amulet, French amulette, German Amulett, Italian, Portuguese, and Spanish amuleto, Russian амуле́т (amulét), all ultimately from Latin amulētum. 	 
+angilo 	Noun 	eel 	From Spanish anguila, French anguille; ultimately from Latin anguilla. 	 
+antikva 	Adjective 	antique, ancient 	From English antique, French antique, German antik, Italian antico, Russian антиква́рный (antikvárnyj), Spanish antiguo, all ultimately from Latin antīquus. 	 
+apartamento 	Noun 	apartment, flat 	From French appartement, Italian appartamento, Spanish/Portuguese apartamento; compare Italian appartare (“to separate, set apart”), from Latin ad + pars, partis (“part”) + -amentum. 	 
+apenaŭ 	Adverb 	scarcely; barely; hardly 	From French à peine, Italian appena, or Spanish apenas (“barely”)  +‎ -aŭ. 	 
+arbo 	Noun 	tree 	Borrowed from French arbre, Spanish árbol, Romanian arbore, from Latin arbor. 	 
+abrikotarbo 	Noun 	apricot tree 	From abrikoto +‎ arbo. 	 
+akaĵuarbo 	Noun 	cashew tree 	From akaĵuo +‎ arbo. 	 
+alizarbo 	Noun 	common whitebeam, (Sorbus aria) 	From alizo +‎ arbo. 	 
+arbaro 	Noun 	forest 	From arbo (“tree”) +‎ ar- (“collection”). 	 
+arbarigi 	Verb 	(transitive) to afforest 	From arbaro +‎ -igi. 	 
+arbarigo 	Noun 	afforestation 	From arbaro +‎ -igo. 	 
+arbaristo 	Noun 	forester 	  	 
+praarbaro 	Noun 	primeval forest, virgin forest 	pra- +‎ arbaro 	 
+rearbarigi 	Verb 	(transitive) to reforest 	From re- +‎ arbarigi. 	 
+rearbarigo 	Noun 	reforestation 	From re- +‎ arbarigo. 	 
+senarbarigi 	Verb 	(transitive) to deforest 	From sen- +‎ arbarigi. 	 
+senarbarigo 	Noun 	deforestation 	From sen- +‎ arbaro +‎ -igo. 	 
+arbotrunko 	Noun 	(botany) tree trunk 	arbo +‎ trunko 	 
+avokadarbo 	Noun 	avocado tree 	From avokado (“avocado”) +‎ arbo (“tree”). 	 
+ĉerizarbo 	Noun 	cherry tree 	From ĉerizo (“cherry”) +‎ arbo (“tree”). 	 
+figarbo 	Noun 	fig (tree) 	From figo (“fig”) +‎ arbo (“tree”). 	 
+fruktarbejo 	Noun 	orchard 	From frukto (“fruit”) +‎ arbo (“tree”) +‎ -ejo (“place”). 	 
+gujavarbo 	Noun 	guava tree 	From gujavo +‎ arbo. 	 
+juglandarbo 	Noun 	walnut (tree) 	From juglando (“walnut”) +‎ arbo (“tree”). 	 
+kaŝtanarbo 	Noun 	chestnut tree 	From kaŝtano (“chestnut”) +‎ arbo (“tree”). 	 
+kokosarbo 	Noun 	coconut palm 	From kokoso (“coconut”) +‎ arbo (“tree”). 	 
+mandarinarbo 	Noun 	mandarin orange tree 	From mandarino +‎ arbo (“tree”). 	 
+mangarbo 	Noun 	mango tree 	From mango (“mango”) +‎ arbo (“tree”). 	 
+oranĝarbo 	Noun 	orange tree 	From oranĝo (“orange”) +‎ arbo (“tree”). 	 
+pinarbo 	Noun 	pine tree (as contrasted with pinewood) 	From pino (“pine”) +‎ arbo (“tree”). 	 
+pirarbo 	Noun 	pear tree 	From piro (“pear”) +‎ arbo (“tree”). 	 
+pomarbo 	Noun 	apple tree 	From pomo (“apple”) +‎ arbo (“tree”). 	 
+aspekto 	Noun 	appearance 	From English aspect, German Aspekt, Spanish aspecto, etc., ultimately from Latin aspectus. 	 
+balasto 	Noun 	(nautical, etc.) ballast 	Borrowed from English ballast, French ballast, German Ballast, Spanish balasto, Russian балла́ст (ballást). 	 
+baleno 	Noun 	whale 	From French baleine; Italian balena; Spanish ballena. 	 
+blua baleno 	Noun 	blue whale, Balaenoptera musculus 	  	 
+banano 	Noun 	banana (fruit) 	From English banana, Italian banana, Spanish banana, French banane, German Banane, Russian банан (banan), all ultimately from Wolof banaana. 	 
+bastono 	Noun 	stick, staff 	Borrowed from Spanish bastón, French bâton. 	 
+bastoneto 	Noun 	baton 	From bastono (“stick, staff”) +‎ -et- (diminutive marker). 	 
+promenbastono 	Noun 	walking stick, cane 	From promeni (“to walk”) +‎ bastono (“stick”). 	 
+blanka 	Adjective 	 white 	Common Romance (French blanc, Italian bianco, Spanish blanco). Perhaps also influenced by Polish biały, Russian бе́лый (bélyj). 	 
+blanka nano 	Noun 	(astronomy) white dwarf 	blanka (“white”) +‎ nano (“dwarf”) 	 
+blanko 	Noun 	 white color 	  	 
+blankulo 	Noun 	a person of light skin color, white person, Caucasian 	blanka (“white”) +‎ -ulo (“person”) 	 
+blankula 	Adjective 	white (pertaining to white people) 	From blanka +‎ -ulo +‎ -a. 	 
+bonveno 	Noun 	welcome 	From bona (“good, well”) +‎ veno (“come”), a calque of  English welcome,  French bienvenue,  German willkommen,  Italian benvenuto,  Spanish bienvenido. 	 
+bonvenon 	Interjection 	welcome! 	bona (“good, well”) +‎ veno (“come”) +‎ -n, a calque of  English welcome,  French bienvenue,  German willkommen,  Italian benvenuto,  Spanish bienvenido. 	 
+brido 	Noun 	bridle 	Borrowed from French bride, Spanish brida, of Germanic origins. 	 
+brili 	Verb 	(intransitive) to shine 	From Italian brillare, Spanish brillar. 	 
+ekbrili 	Verb 	to flash 	ek- +‎ brili (“to shine”) 	 
+ĉielo 	Noun 	sky 	From Italian cielo, from Spanish cielo. 	 
+ĉiela 	Adjective 	heavenly, celestial 	From ĉiel (“in every way, in every manner”) +‎ -a (adjectival ending). 	 
+ĉielekvatoro 	Noun 	celestial equator 	ĉiela +‎ ekvatoro 	 
+ĉielero 	Noun 	a little bit of heaven 	From ĉielo (“heaven”) +‎ -ero (“element”). 	 
+damo 	Noun 	(chess, card games) queen 	From Italian/Polish/Portuguese/Spanish dama, French dame, from Latin domina, from domus (“house”) (compare domo), from Proto-Indo-European *dṓm, from *dem- (“to build”). 	 
+de 	Preposition 	from 	From Latin dē, French de, Spanish de. 	 
+deprimi 	Verb 	to depress 	Compare Spanish deprimir. 	 
+deprimo 	Noun 	depression 	deprimi +‎ -o 	 
+diablo 	Noun 	devil 	From French diable, see Spanish diablo. 	 
+diferenco 	Noun 	difference 	Compare French différence, Italian differenza, Spanish diferencia, English difference, and German Differenz, all ultimately from Latin differentia. 	 
+diferenci 	Verb 	(intransitive) to differ 	From diferenco +‎ -i. 	 
+diferencigi 	Verb 	to differentiate 	From diferenci +‎ -igi. 	 
+diference 	Adverb 	differently 	  	 
+diocezo 	Noun 	(Christianity) diocese 	From English diocese, French diocèse, German Diözese, Italian diocesi, Spanish diócesis, Latin dioēcesis. 	 
+ĉefdiocezo 	Noun 	(Christianity) archdiocese 	From ĉef- +‎ diocezo (“diocese”). 	 
+disputi 	Verb 	to argue; to dispute 	Compare French disputer, Italian disputare, Spanish disputar, and English dispute, all ultimately from Latin disputāre. 	 
+diversa 	Adjective 	various 	From English diverse, French and German divers, Italian and Spanish diverso, from Latin diversus. 	 
+diverseco 	Noun 	diversity 	From diversa +‎ -eco. 	 
+divorco 	Noun 	(law) divorce 	From English divorce, French divorce, Italian divorzio, Spanish divorcio, Portuguese divórcio, from Latin dīvortium. 	 
+dozo 	Noun 	(medicine) dose 	From English dose, French dose, Portuguese dose, Italian dose, German Dosis, Russian до́за (dóza), Spanish dosis, from Late Latin dosis, from Ancient Greek δόσις (dósis, “a portion prescribed”, literally “a giving”), from δίδωμι (dídōmi, “to give”). 	 
+ekzisti 	Verb 	(intransitive) to exist 	From French exister, Spanish existir, English exist, German existieren, all from Latin exsistō. 	 
+ellabori 	Verb 	(transitive) to develop, work out, work on 	From el- +‎ labori, perhaps influenced by words in European languages such as Spanish elaborar. 	 
+entuziasmo 	Noun 	enthusiasm 	From English enthusiasm, French enthousiasme, German Enthusiasmus, Italian entusiasmo, Spanish entusiasmo, Portuguese entusiasmo, Russian энтузиа́зм (entuziázm), from Late Latin enthusiasmus, from Ancient Greek ἐνθουσιασμός (enthousiasmós). 	 
+entuziasmigi 	Verb 	(transitive) to enthuse, inspire 	From entuziasmo (“enthusiasm”) +‎ -igi. 	 
+evidenta 	Adjective 	evident, clear, obvious 	From English evident, German evident, French évident, Italian evidente, Portuguese evidente, Spanish evidente, from Latin ēvidēns. 	 
+evidente 	Adverb 	obviously 	  	 
+evidenteco 	Noun 	evidence (state of being evident), obviousness 	From evidenta +‎ -eco. 	 
+evidentigi 	Verb 	(transitive) to reveal (make evident) 	From evidenta (“evident, clear, obvious”) +‎ -igi (“to cause to be”). 	 
+evidentiĝi 	Verb 	(intransitive) to become evident 	From evidenta (“evident”) +‎ -iĝi (“to become”). 	 
+facila 	Adjective 	easy; simple 	From Latin facilis, French facile, Italian facile, Spanish fácil, Portuguese fácil. 	 
+facilanima 	Adjective 	frivolous, flippant, impulsive, flighty, light-hearted, nonchalant, easygoing 	From facila (“easy”) +‎ animo (“soul”) +‎ -a. 	 
+facile 	Adverb 	easily 	  	 
+facileco 	Noun 	ease, facility; the abstract quality of easiness 	From facila (“easy”) +‎ -eco (“quality”). 	 
+facili 	Verb 	(intransitive) to be easy 	From facila (“easy”) +‎ -i. 	 
+faciligi 	Verb 	(transitive) to make something easy, facilitate 	From facila (“easy”) +‎ -igi (“to cause to be”). 	 
+fanfaroni 	Verb 	to brag, boast 	From Spanish fanfarronear. 	 
+feko 	Noun 	(literally) feces, excrement 	Borrowed from Ido feko, from English fecal, French fécal, German fäkal, Italian fecale, Russian фека́льный (fekálʹnyj), Spanish fecal, all ultimately from Latin faecalis, from faex. 	 
+flui 	Verb 	(intransitive) to flow 	Borrowed from Spanish fluir, Portuguese fluir, English flow, Latin fluō. 	 
+enfluejo 	Noun 	mouth (of a river) 	From en- +‎ flui +‎ -ejo. 	 
+fragmento 	Noun 	fragment, piece, morsel 	From Spanish fragmento, Portuguese fragmento, English fragment, French fragment, from Latin fragmentum. 	 
+fragmenta 	Adjective 	fragmentary, fragmented 	From fragmento +‎ -a. 	 
+fumo 	Noun 	smoke 	Borrowed from Italian fumo, Portuguese fumo, French fumée, Spanish humo, Latin fūmus; ultimately from Proto-Indo-European *dʰuh₂mós (“smoke”), with many non-Romance cognates such as Lithuanian dūmas, Russian дым (dym), Sanskrit धूम (dhūmá). 	 
+fumi 	Verb 	(intransitive) to smoke; to give off smoke. 	From fumo +‎ -i. 	 
+fumaĵi 	Verb 	(transitive) to smoke food, cure by smoking 	From fumaĵo +‎ -i. 	 
+fumumi 	Verb 	(transitive) to smoke a pipe, cigarette, etc. 	From fumi +‎ -um-. 	 
+prifumi 	Verb 	(transitive) to smoke out, smoke (bees), saturate with smoke 	From pri- +‎ fumi. 	 
+futbalo 	Noun 	football (soccer) 	From French football, German Fußball, Russian футбо́л (futból), Spanish fútbol, all from English football. 	 
+galanta 	Adjective 	gallant 	From English gallant, French galant, German galant, Italian galante, Spanish galante, Portuguese galante. 	 
+giganto 	Noun 	(mythology) giant 	From German Gigant, Spanish gigante, Italian gigante 	 
+giganta 	Adjective 	giant; gigantic; huge 	 	 
+gasgiganto 	Noun 	(astronomy) gas giant 	gaso +‎ giganto 	 
+griza 	Adjective 	 gray 	From French gris, Spanish gris. 	 
+ĝemelo 	Noun 	twin 	From Italian gemello; Portuguese gêmeo; Spanish gemelo. 	 
+siama ĝemelo 	Noun 	Siamese twin 	  	 
+harpuno 	Noun 	harpoon 	From English harpoon, French harpon, Portuguese harpão, German Harpune, Spanish harpón. 	 
+heredi 	Verb 	to inherit 	Spanish heredar, Latin heredito. 	 
+ilustri 	Verb 	to illustrate 	From English illustrate, French illustrer, German illustrieren, Spanish ilustrar, Portuguese ilustrar, Italian illustrare, Russian иллюстри́ровать (illjustrírovatʹ), ultimately from Latin illūstrō. 	 
+justa 	Adjective 	just, fair, righteous, equitable 	From French juste, Italian giusto, Spanish justo, English just, all ultimately from Latin iūstus (+ -a). 	 
+kalsono 	Noun 	(pair of) underpants, underwear (US), pants (UK) 	Borrowed from French caleçons, Portuguese calções, Spanish calzón, Polish kalesony. 	 
+kalsoneto 	Noun 	Diminutive of kalsono 	From kalsono (“underpants”) +‎ -et- (diminutive suffix). 	 
+kalva 	Adjective 	bald 	Borrowed from Italian calvo, Spanish calvo, Portuguese calvo, from Latin calvus. 	 
+kanario 	Noun 	canary 	From French canari, Spanish canario. 	 
+kanjono 	Noun 	(geology) canyon 	From Spanish cañón. 	 
+kapitelo 	Noun 	(architecture) capital 	From Italian capitello, Spanish capitel, ultimately from Latin capitellum. 	 
+kaverno 	Noun 	cave, cavern 	From Spanish caverna, Italian caverna, French caverne, English cavern 	 
+kavernhomo 	Noun 	cave dweller 	kaverno (“cave”) +‎ homo (“human”) 	 
+klara 	Adjective 	clear 	From English clear, clarity, French clair, German klar, Italian chiaro, Portuguese claro, Spanish claro, from Latin clārus. 	 
+klare 	Adverb 	clearly 	  	 
+klarigi 	Verb 	(transitive) to explain 	From klara (“clear”) +‎ -igi. 	 
+neklarigebla 	Adjective 	inexplicable 	From ne- (“not”) +‎ klarigi (“to explain”) +‎ -ebla (“capable of”). 	 
+neklarigeble 	Adverb 	inexplicably 	From ne- +‎ klarigi (“to explain”) +‎ -eble. 	 
+pliklarigi 	Verb 	to clarify 	From pli +‎ klarigi. 	 
+malklara 	Adjective 	unclear 	From mal- (“opposite of”) +‎ klara (“clear”). 	 
+klaso 	Noun 	(education, biology, programming) class 	From English class, French classe, Italian classe, Spanish clase, Portuguese classe, German Klasse, Russian класс (klass), ultimately from Latin classis. 	 
+koloro 	Noun 	colour 	From Latin color, coloris, English color, Spanish color, Italian colore, Polish kolor. 	 
+kolora 	Adjective 	coloured 	  	 
+kolorigi 	Verb 	(transitive) to color 	From kolora +‎ -igi. 	 
+koloreco 	Noun 	colouration, colouring 	  	 
+kolori 	Verb 	to color 	  	 
+senkolora 	Adjective 	colourless 	From sen- +‎ koloro +‎ -a. 	 
+komenci 	Verb 	(transitive) to start, begin 	From French commencer, Spanish comenzar, Portuguese começar. 	 
+komencaĉi 	Verb 	to start badly 	komenci (“to start”) +‎ -aĉ- 	 
+komenciĝi 	Verb 	(intransitive) to start, begin 	From komenci +‎ -iĝi. 	 
+kondoro 	Noun 	condor 	From Spanish cóndor. 	 
+konfiski 	Verb 	to confiscate 	Borrowed from French confisquer, Spanish/Portuguese confiscar, Italian confiscare, ultimately from Latin confiscō, confiscāre (“declare property of the fisc”). 	 
+kosto 	Noun 	cost 	From kosti, from English cost, German kosten, Spanish costar, etc. 	 
+krisolo 	Noun 	crucible 	From Spanish crisol. 	 
+kruda 	Adjective 	crude or rough 	From Spanish crudo, Italian crudo, English crude, from Latin crūdus, from Proto-Indo-European *krewh₂-. 	 
+kruela 	Adjective 	cruel 	From English cruel, French cruel, Spanish cruel. 	 
+kruelega 	Adjective 	exceedingly cruel 	From kruela (“cruel”) +‎ -eg-. 	 
+kvieta 	Adjective 	quiet, calm 	From English quiet, Italian quieto, Spanish quieto, from Latin quiētus. 	 
+lago 	Noun 	lake 	From Italian, Portuguese, and Spanish lago (“lake”). 	 
+lageto 	Noun 	pond, lakelet 	From lago +‎ -et-. 	 
+lamo 	Noun 	llama 	Ultimately from Spanish llama, from Quechua llama. 	 
+lanco 	Noun 	lance, spear 	Borrowed from English lance, French lance, Portuguese lança, Italian lancia, Spanish lanza, German Lanze, all from Latin lancea. 	 
+ĵetlanco 	Noun 	a javelin 	ĵeti (“throw”) +‎ lanco (“spear”) 	 
+libro 	Noun 	a book 	From French livre, Italian and Spanish libro, from Latin liber. 	 
+ĉeflibro 	Noun 	main book 	From ĉef- +‎ libro. 	 
+kuirlibro 	Noun 	cookbook 	From kuiri +‎ libro. 	 
+libreto 	Noun 	a booklet 	From libro (“book”) +‎ -et- (“small”). 	 
+manlibro 	Noun 	handbook 	From mano (“hand”) +‎ libro (“book”). 	 
+taglibro 	Noun 	diary, journal 	From tago (“day”) +‎ libro (“book”), probably a calque of  German Tagebuch. 	 
+lipido 	Noun 	(organic chemistry) lipid 	From English lipid, French lipide, Italian lipide, French lipide, German Lipid, Spanish lípido, Russian липи́д (lipíd). 	 
+luno 	Noun 	(astronomy) moon 	Borrowed from French lune, Italian and Spanish luna, from Latin lūna. May also be a derivation from Russian луна́ (luná). All derived from Proto-Indo-European *lewk-. 	 
+alluniĝi 	Verb 	(intransitive) to land on the moon 	From al- +‎ luno +‎ -iĝi. 	 
+luna 	Adjective 	(astronomy) lunar 	From luno (“moon”) +‎ -a. 	 
+lunlumo 	Noun 	moonlight 	From luno +‎ lumo. 	 
+maĉismo 	Noun 	machismo 	From American Spanish machismo, from Spanish macho (“male”), + suffix -ismo (“-ism”). 	 
+malakito 	Noun 	(mineralogy) malachite 	From English, French, Italian malachite, German Malachit, Spanish malaquita. 	 
+mano 	Noun 	(anatomy) hand 	From Spanish mano, Italian mano, Portuguese mão, French main, from Latin manus. 	 
+almanigi 	Verb 	to put one’s hand on (something), grab 	From al- +‎ mano +‎ -igi. 	 
+ĉirkaŭmano 	Noun 	bracelet (jewelry) 	ĉirkaŭ +‎ mano 	 
+mane 	Adverb 	by hand 	mano (“hand”) +‎ -e 	 
+manmuelejo 	Noun 	quern 	From mano (“hand”) +‎ muelejo (“mill”). 	 
+plenmano 	Noun 	handful (that which is, or may be, held in a hand at once) 	From plena +‎ mano. 	 
+metalo 	Noun 	(chemistry) metal 	From English metal; French métal; German Metall; Italian metallo; Spanish metal. 	 
+nemetalo 	Noun 	(chemistry) nonmetal 	From ne- +‎ metalo. 	 
+nobla metalo 	Noun 	(inorganic chemistry, alchemy) noble metal 	  	 
+pezmetalo 	Noun 	(chemistry) heavy metal 	From peza +‎ metalo. 	 
+mielo 	Noun 	honey 	From Romance terms such as French and Spanish miel, both from Latin mel. 	 
+morto 	Noun 	death 	From French mort, Italian morte, Spanish muerte, Portuguese morte, Romanian moarte, from Latin mors, mortis. All derived from Proto-Indo-European *mr̥-to-. Similar forms also exist in other Indo-European languages, such as Lithuanian mirtis, Russian смерть (smertʹ), Persian مرگ‎ (marg) and Hindi मृत्यु (mŕtyu). 	 
+mortpuno 	Noun 	(law) death penalty 	From morto (“death”) +‎ puno (“punishment”). 	 
+muzeo 	Noun 	museum 	From English museum, French musée, muséum, German Museum, Italian museo, Spanish museo, Portuguese museu, Russian музе́й (muzéj). 	 
+nenial 	Adverb 	for no reason 	From neni- (negative correlative prefix) +‎ -al (correlative suffix of reason). 	 
+neniam 	Adverb 	never 	Esperanto neni- (negative correlative prefix) + -am (correlative suffix of time). 	 
+neniamo 	Noun 	(literary, poetic) never 	From neniam (“never”) +‎ -o. 	 
+nenie 	Adverb 	nowhere (negative correlative of place) 	neni- + -e 	 
+neniel 	Adverb 	in no way 	From neni- (negative correlative prefix) +‎ -el (correlative suffix of manner or degree). 	 
+nenies 	Adjective 	nobody's 	From neni- (negative correlative prefix) +‎ -es (correlative suffix of possession). 	 
+neniigi 	Verb 	(transitive) to annihilate 	From neni- +‎ -igi. 	 
+nomo 	Noun 	name 	From French nom, Italian nome, Portuguese nome, Spanish nombre, from Latin nōmen. Ultimately derived from Proto-Indo-European *h₁nómn̥ (“name”). Similar forms also appear in other major Indo-European languages, e.g. English name, German Name, Hindi नाम (nām), and in non-Indo-European languages, e.g. Finnish nimi, Indonesian nama, Japanese なまえ (namae). 	 
+alnomo 	Noun 	an additional name: nickname; surname; cognomen 	From al +‎ nomo. 	 
+kaŝnomo 	Noun 	name assumed to hide one's identity, pseudonym 	From kaŝi (“to hide”) +‎ nomo (“name”). 	 
+kromnomo 	Noun 	byname; nickname 	From krom (“apart from, besides”) +‎ nomo (“name”). 	 
+nomi 	Verb 	(transitive) to name 	From nomo (“name”, noun) +‎ -i (infinitive suffix). 	 
+samnoma 	Adjective 	homonymous: having the same name or title 	  	 
+samnomulo 	Noun 	namesake 	From samnoma (“homonymous”) +‎ -ulo (“person”). 	 
+sennoma 	Adjective 	nameless, unnamed, anonymous 	From sen- (“without, -less”) +‎ nomo (“name”) +‎ -a (adjectival ending). 	 
+nordo 	Noun 	north 	From English north, French nord, German Norden, Italian nord, Spanish norte, all ultimately from Proto-Germanic *nurþrą. 	 
+nordano 	Noun 	northerner 	From nordo (“north”) +‎ -ano (“inhabitant”). 	 
+noto 	Noun 	a note 	From French note, Italian and Spanish nota, from Latin nota (“mark, sign”). 	 
+banknoto 	Noun 	banknote 	From banko (“bank”) +‎ noto (“note”). 	 
+noti 	Verb 	to note 	From Latin notō, notāre, from nota. 	 
+notlibreto 	Noun 	notebook 	From noto +‎ libreto. 	 
+notobloko 	Noun 	notepad 	From noto +‎ bloko. 	 
+piednoto 	Noun 	footnote 	From piedo +‎ noto. 	 
+nova 	Adjective 	new 	From Italian nuovo, Spanish nuevo, Portuguese novo, Bulgarian нова (nova); from Latin novus. May also be a derivation from Polish nowy or Russian но́вый (nóvyj). All derived from Proto-Indo-European *néwos, including similar cognates in other Indo-European languages (English new, German neu, French nouveau, Lithuanian naujas, Ancient Greek νέος (néos), Persian نو‎ (nou), Hindi नया (nayā)). 	 
+organizi 	Verb 	to organize 	Borrowed from English organize, French organiser, German organisieren, Spanish organizar, Italian organizzare, Russian организо́вывать (organizóvyvatʹ), all from New Latin organizāre (“organize”), from Latin organum (“organ”). 	 
+oro 	Noun 	gold 	Borrowed from Spanish oro 	 
+pagi 	Verb 	(transitive) to pay with (a payment) 	From Italian pagare, Portuguese and Spanish pagar. 	 
+alpago 	Noun 	additional fee, surcharge 	al +‎ pago. 	 
+paganto 	Noun 	singular present nominal active participle of pagi 	  	 
+pagenda 	Adjective 	to be paid, payable 	pagi (“to pay”) +‎ -enda (“required to”) 	 
+pago 	Noun 	payment 	From pagi +‎ -o. 	 
+pagado 	Noun 	payment 	From pagi +‎ -ado. 	 
+pagi 	Verb 	(transitive) to pay with (a payment) 	From Italian pagare, Portuguese and Spanish pagar. 	 
+senpaga 	Adjective 	free (obtainable without payment) 	From sen- (“without, -less”) +‎ pagi (“to pay”) +‎ -a (adjectival ending). 	 
+pagita 	Adjective 	singular past passive participle of pagi 	  	 
+pantoflo 	Noun 	slipper 	From German Pantoffel, Dutch pantoffel. Also French pantoufle, Spanish pantufla, Italian pantofola. 	 
+parko 	Noun 	park 	From English park, French parc, German Park, Italian parco, Spanish parque, Portuguese parque, Russian парк (park). 	 
+parkejo 	Noun 	car park, parking garage 	parki (“to park”) +‎ -ejo 	 
+parki 	Verb 	(intransitive) to park 	parko (“park”) +‎ -i 	 
+peco 	Noun 	piece 	Compare French pièce, Italian pezzo, Spanish pieza, English piece. 	 
+piedo 	Noun 	foot 	From French pied, Italian piede, Spanish pie, from Latin pēs, pedis, from Proto-Indo-European *pṓds. 	 
+piedfingro 	Noun 	toe 	From piedo +‎ fingro. 	 
+piediri 	Verb 	(intransitive) to walk (literally, “to go on foot”) 	From piedo +‎ iri. 	 
+piedpilko 	Noun 	football; soccer ball 	  	 
+polvo 	Noun 	dust 	From Spanish polvo. 	 
+polva 	Adjective 	dusty 	  	 
+polvoŝtormo 	Noun 	(weather) duststorm 	polvo +‎ ŝtormo 	 
+por 	Preposition 	for, for the benefit of 	From Spanish por. 	 
+povra 	Adjective 	poor 	Borrowed from Ido povra, from French pauvre, Spanish pobre, from Latin pauper. 	 
+princo 	Noun 	prince 	From French prince, Italian principe, Spanish príncipe, German Prinz, English prince, all ultimately from Latin prīnceps. 	 
+princlando 	Noun 	principality 	From princo (“prince”) +‎ lando (“land”). 	 
+profunda 	Adjective 	deep 	From French profond, Italian profondo, Portuguese profundo, Spanish profundo, ultimately from Latin profundus. 	 
+promeso 	Noun 	promise 	From Latin promissum, reinforced by various languages such as English promise, French promesse, Italian promessa, Portuguese promessa, Spanish promesa, etc. 	 
+resto 	Noun 	rest, remainder 	From resti +‎ -o, probably influenced by English rest, Spanish resto, etc. 	 
+retiri 	Verb 	(transitive) to remove, withdraw[1], take back 	Cf. French retirer, Spanish retirar, Italian ritirare, Portuguese retirar. 	 
+reto 	Noun 	(in most senses, including mesh, tool for trapping, figuratively, computing  network, Internet) net 	From French rets, Italian rete, Spanish red, ultimately from Latin rēte. 	 
+retpaĝo 	Noun 	webpage 	reto (“Internet”) +‎ paĝo (“page”) 	 
+retumi 	Verb 	(intransitive) to surf the Web[1] 	From reto (“the Internet”) +‎ -um- (suffix with no fixed meaning) +‎ -i. 	 
+retumilo 	Noun 	web browser[1] 	From retumi (“to surf the Web”) +‎ -ilo (“tool”). 	 
+ĉefreto 	Noun 	This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}. 	From ĉef- +‎ reto (“net”). 	 
+rojo 	Noun 	brook, rivulet 	From English and Spanish arroyo. 	 
+salo 	Noun 	salt 	From Italian sale; Latin sāl; Spanish sal. 	 
+kuirsalo 	Noun 	cooking salt 	From kuiri (“to cook”) +‎ salo (“salt”). 	 
+seka 	Adjective 	dry 	From French sec, Spanish seco, Portuguese seco, Italian secco, from Latin siccus, ultimately from Proto-Indo-European *seyk-. Further similar Indo-European cognates include Welsh sych, Russian сухой (suxój), Lithuanian sausas and Hindi सूखा (sūkhā). 	 
+sekeco 	Noun 	dryness 	From seka +‎ -eco. 	 
+malsekeco 	Noun 	wetness 	From malseka +‎ -eco. 	 
+sekega 	Adjective 	extremely dry 	From seka (“dry”) +‎ -eg-. 	 
+seketa 	Adjective 	slightly dry 	From seka (“dry”) +‎ -et-. 	 
+sekigi 	Verb 	(transitive) to dry 	From seka (“dry”) +‎ -igi (“to cause to be, cause to do, make”). 	 
+sekiĝi 	Verb 	(intransitive) to get dry; to dry off 	From seka (“dry”) +‎ -iĝi (“to become”). 	 
+serĝento 	Noun 	(military) sergeant 	From French sergent, Italian sergente, Spanish sargento, German Sergeant, English sergeant, Russian сержа́нт (seržánt), Polish sierżant. 	 
+ĉefserĝento 	Noun 	This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}. 	From ĉef- +‎ serĝento (“sergeant”). 	 
+siesto 	Noun 	siesta 	Borrowed from English siesta, Italian siesta, French sieste, German Siesta, Russian сие́ста (sijésta), all from Spanish siesta. 	 
+sklavo 	Noun 	slave 	From English slave, French esclave, German Sklave, Italian schiavo, Spanish esclavo, all ultimately from Medieval Latin sclavus (“slave”). Doublet of slavo. 	 
+sklaveco 	Noun 	slavery 	From sklavo (“slave”) +‎ -eco (“quality”). 	 
+sklavigi 	Verb 	(transitive) to enslave 	From sklavo (“slave”) +‎ -igi (“to cause to be”). 	 
+spozo 	Noun 	(neologism) spouse (married partner) 	Borrowed from Ido spozo, from Italian sposo/sposa, Spanish esposo/esposa, French époux/épouse, English spouse, all ultimately from Latin spōnsus (“bridegroom”)/spōnsa (“bride”), from spondere (“to vow, to pledge”), from Proto-Indo-European *spend-. 	 
+streta 	Adjective 	narrow 	Borrowed from Ido streta, from English strait, Italian stretto, Spanish estrecho. 	 
+sudo 	Noun 	south 	From English south, French sud, German Süden, Italian sud, Spanish sur, all ultimately from Proto-Germanic *sunþrą. 	 
+sudano 	Noun 	southerner 	sudo (“south”) +‎ -ano (“inhabitant”) 	 
+suspensorio 	Noun 	jockstrap 	From Italian sospensorio, Spanish suspensorio. 	 
+tenera 	Adjective 	tender 	Borrowed from Ido tenera, from English tender, French tendre, Italian tenero, Spanish tierno. 	 
+teo 	Noun 	tea 	Borrowed from English tea, French thé, German Tee, Italian tè, Spanish té, all ultimately from Min Nan 茶 (tê). 	 
+teejo 	Noun 	(rare) teahouse 	From teo (“tea”) +‎ -ejo. 	 
+teujo 	Noun 	teapot 	From teo (“tea”) +‎ -ujo (“container for”). 	 
+timida 	Adjective 	timid 	From English timid, French timide, Italian timido, Spanish tímido. 	 
+tortiljo 	Noun 	tortilla 	From Spanish tortilla 	 
+transgenrulo 	Noun 	(neologism) a transgender person 	From trans- (“across”) +‎ genro (“gender”) +‎ -ulo (“person”), based on English transgender, French transgenre, Spanish transgénero. 	 
+trista 	Adjective 	sad 	Borrowed from Ido trista, from French triste, Italian triste, Spanish triste. 	 
+triumfo 	Noun 	triumph 	Borrowed from English triumph, French triomphe, German Triumph, Italian trionfo, Russian триу́мф (triúmf) and Spanish triunfo, all ultimately from Latin triumphus, from Ancient Greek θρίαμβος (thríambos). 	 
+vakero 	Noun 	a cowhand 	From Spanish vaquero. 	 
+vakera 	Adjective 	of or related to cowhands 	From vakero (“cow hand”) +‎ -a. 	 
+vakera ĉapelo 	Noun 	cowboy hat 	  	 

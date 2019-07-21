@@ -94,7 +94,10 @@ def wikiPageScraper(url, base_url=base_url):
     except:
         return None
     derivedTermUrls = []
-
+    word_pos = None
+    word_element = None
+    word = None
+    meaning = None
     etymology = " "
     for sibling in eo_title.next_siblings:
         if sibling.name == 'h2':
@@ -118,10 +121,6 @@ def wikiPageScraper(url, base_url=base_url):
 
         for sibling in eo_title.next_siblings:
             if sibling.name == 'h2':
-                word_pos = None
-                word_element = None
-                word = None
-                meaning = None
                 break
             try:
                 if pos in sibling.span["id"]:
@@ -132,6 +131,8 @@ def wikiPageScraper(url, base_url=base_url):
                     break
             except:
                 continue
+    return (word, word_pos, meaning, etymology), derivedTermUrls
+"""
     try: 
         return (word, word_pos, meaning, etymology), derivedTermUrls
     except:
@@ -139,7 +140,7 @@ def wikiPageScraper(url, base_url=base_url):
             return (None, None, None, None), derivedTermUrls
         except:
             print(url)
-
+"""
 
 def main():
     urlToFile.scraped_words= set()
