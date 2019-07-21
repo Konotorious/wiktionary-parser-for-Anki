@@ -1,0 +1,1 @@
+# wiktionary-parser-for-Anki
