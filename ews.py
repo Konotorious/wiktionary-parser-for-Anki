@@ -4,11 +4,12 @@ from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
 # wiktionary base url and urls of category pages to parse the contents of
+baseFileName = "AnkiEsperantoWordsFrom"
+targetLanguage = "Esperanto"
 base_url = "https://en.wiktionary.org"
 categories = {
     "Spanish":"/wiki/Category:Esperanto_terms_derived_from_Spanish",
     "French":"/wiki/Category:Esperanto_terms_derived_from_French"}
-baseFileName = "AnkiEsperantoWordsFrom"
 posToParse = ["Verb", "Noun", "Adjective", "Adverb", "Interjection", "Preposition", "Proper Noun"]
 
 def getTermsLists(url, base_url=base_url, recursive = 0):
@@ -90,7 +91,7 @@ def wikiPageScraper(url, base_url=base_url):
     """
     page_soup = getPageSoup(url)
     try:
-        eo_title = page_soup.find(id="Esperanto").parent
+        eo_title = page_soup.find(id=targetLanguage).parent
     except:
         return None
     derivedTermUrls = []
